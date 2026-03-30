@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm Igor Doudelzak. Beginner DevOps engineer, backend developer. I live in Novi Sad. Looking for a job.
+- I'm Igor Doudelzak. Beginner DevOps engineer, backend developer. I live in Novi Sad.
 - I'm learning Ansible, DevOps tools and programming language C. I have decent experience in python. Also, i know a couple of things about setting up a network and I had experience on configuring linux servers and programming telegram bots in python(was setting up sqlalchemy for connection with sqlite3). I studied in school with IT specialty in Novi Sad, so I have some experience with DOTNET applications and websites.
 - I have a couple of projects-repositories written in python. You can see them soon enough in my GitHub profile when I'll finish polishing them.
 - My stack for websites is:
